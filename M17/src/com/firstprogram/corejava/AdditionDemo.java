@@ -17,6 +17,7 @@ public class AdditionDemo {
 	System.out.println("Answer is: "+Sum);
 	sc.close();
 	
+	
 	}
 
 }
